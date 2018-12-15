@@ -9,6 +9,9 @@ To ssh in into the server as the user **grader**, use the private key provided a
 
   Server IP: 13.250.121.47
   SSH port: 2200
+  passphrase for grader user: password
+  password for grader user: password
+
   
 To access the web application with a web browser, use the URL: http://http://13.250.121.47.xip.io
 
