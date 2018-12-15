@@ -15,8 +15,9 @@ To access the web application with a web browser, use the URL: http://http://13.
 ### Server Configuration
 
 **Update system packages: **
-  `sudo apt-get upgrade`
   `sudo apt-get update`
+  `sudo apt-get upgrade`
+  `sudo apt-get dist-upgrade` - to upgrade OS packages
     
 **Configure timezone to UTC:**
   `sudo dpkg-reconfigure tzdata`
